@@ -81,8 +81,3 @@ Identificar padrões em transações financeiras e classificar transações como
 - Mabylly Kauany Neres da Silva  
 - Murilo Vital Rondina  
 - Ruan Mateus Trizotti
-
----
-
-## 📜 Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
